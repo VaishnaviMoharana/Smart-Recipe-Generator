@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrot", "soy sauce"],
+    "steps": ["Chop vegetables.", "Stir fry in a pan."],
+    "nutrition": {"calories": 300, "protein": 10},
+    "cuisine": "Asian",
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Salad",
+    "ingredients": ["chicken", "lettuce", "tomato"],
+    "steps": ["Grill chicken.", "Mix with salad."],
+    "nutrition": {"calories": 400, "protein": 30},
+    "cuisine": "American",
+    "dietary": []
+  },
+  // Add more recipes here to reach at least 20. For example:
+  {
+    "id": 3,
+    "name": "Pasta Primavera",
+    "ingredients": ["pasta", "zucchini", "bell pepper"],
+    "steps": ["Boil pasta.", "Saute vegetables."],
+    "nutrition": {"calories": 450, "protein": 15},
+    "cuisine": "Italian",
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": 4,
+    "name": "Oatmeal Breakfast",
+    "ingredients": ["oats", "milk", "banana"],
+    "steps": ["Cook oats.", "Add fruits."],
+    "nutrition": {"calories": 250, "protein": 8},
+    "cuisine": "General",
+    "dietary": ["gluten-free"]
+  },
+  {
+    "id": 5,
+    "name": "Tomato Soup",
+    "ingredients": ["tomato", "onion", "garlic"],
+    "steps": ["Saute onions.", "Blend with tomatoes."],
+    "nutrition": {"calories": 200, "protein": 5},
+    "cuisine": "European",
+    "dietary": ["vegetarian"]
+  }
+  // Continue adding until you have 20+ entries.
+]
